@@ -7,7 +7,7 @@ An attempt to make people’s walking experience more relaxing and comfortable. 
 - Temperature Sensors, heat Sensors, etc are used 
 - Other than that switches, 
 - Controlling board,
-- Connectors, and
+- Connectors, 
 - Other basic electronic components are used.
 
 ### Software Information: 
