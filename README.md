@@ -11,7 +11,6 @@ An attempt to make people’s walking experience more relaxing and comfortable. 
 - Other basic electronic components are used.
 
 ### Software Information: 
-
 - GPS tracking information is being used,
 - App Development technique is used, 
 - Software for sensor coding like Arduino is used.
