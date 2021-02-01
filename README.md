@@ -16,6 +16,7 @@ These would be really helpful for Disabled people and also the common crowd as t
 - Other basic electronic components are used.
 
 ### Software Information: 
+
 - GPS tracking information is being used
 - App Development technique is used
 - Software for sensor coding like Arduino is used.
