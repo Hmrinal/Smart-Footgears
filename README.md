@@ -9,7 +9,7 @@ These would be really helpful for Disabled people and also the common crowd as t
 ### Hardware Information:
 
 - Different Types of Sensors,
-- Temperature Sensors, heat Sensors, etc are used 
+- Temperature Sensors, Heat Sensors, etc are used 
 - Other than that switches, 
 - Controlling board,
 - Connectors, 
